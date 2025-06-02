@@ -6,5 +6,3 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 ## The dataset 
 The dataset can be found at this link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-## How to use
-Download .zip and run the .ipynb file 
